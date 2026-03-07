@@ -1,0 +1,16 @@
+kelime,gözlemler
+araba,0 1 1 0 0
+ev,0 0
+okul,1 1 0
+masa,0 1 0 1
+kitap,0 0 1 0 1
+sandalye,0 1 1 1 0 0
+kalem,0 0 1
+telefon,1 0 1 1 0 1
+bilgisayar,1 1 0 0 1 0 1
+çanta,0 1 0 0
+ayakkabı,1 0 0 1 1 0
+kapı,0 0 1 0
+pencere,0 1 1 0 1 0
+bardak,0 0 1 1
+mutfak,0 1 0 1 0 1
