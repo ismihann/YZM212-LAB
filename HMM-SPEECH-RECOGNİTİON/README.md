@@ -15,4 +15,4 @@ Projede şu adımlar izlenmiştir:
 - Test verileri üzerinde doğruluk ölçümü.
 
 ### 4. Sonuçlar ve Yorumlar
-- Yapılan testler sonucunda % [buraya başarı oranını yaz] oranında doğruluk elde edilmiştir.
+- Yapılan testler sonucunda %  oranında doğruluk elde edilmiştir.
